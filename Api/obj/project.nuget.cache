@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "20Y86PcmhLJ8zzC4rVKWfO2VWbmZ9utQyUvqgT1a0PuI21PSEHW0YNUQ3obi4Xwx8PwwU85zMujaZib42JOOKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Weslley\\Desktop\\Projects\\AppMongoSharp\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weslley\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Weslley\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Weslley\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Weslley\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Weslley\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Weslley\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
